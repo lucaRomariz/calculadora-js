@@ -17,7 +17,7 @@ Esta calculadora realiza operações básicas como adição, subtração, multip
 
 ## ▶️ Como usar
 
-1. Baixe os arquivos ou acesse [o projeto online](projetos-pessoais/calculadora-js/index.html) (se usar GitHub Pages)
+1. Baixe os arquivos ou acesse [o projeto online](https://lucaromariz.github.io/calculadora-js/) 
 2. Abra o `index.html` no navegador
 
 ## 📸 Imagem
