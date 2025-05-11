@@ -20,6 +20,8 @@ Esta calculadora realiza operações básicas como adição, subtração, multip
 1. Baixe os arquivos ou acesse [o projeto online](https://lucaromariz.github.io/calculadora-js/) 
 2. Abra o `index.html` no navegador
 
+- 💻 [Ver código-fonte no GitHub](https://github.com/lucaRomariz/calculadora-js)
+
 ## 📸 Imagem
 
 ![Calculadora](screenshot.png)
